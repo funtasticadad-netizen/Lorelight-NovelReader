@@ -70,3 +70,17 @@ Grab the latest APK from the [Releases page](../../releases) and install it on y
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 💬 Community
+
+Got a bug? Have an idea? Want to discuss features or just hang out with fellow readers?
+
+Join the Lorelight Discord — all bug reports, feature requests, and discussions happen there!
+
+[
+
+![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)
+
+](https://discord.gg/nyFMhq9EFw)
